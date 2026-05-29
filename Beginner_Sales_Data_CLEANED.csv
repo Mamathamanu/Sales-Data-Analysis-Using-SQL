@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Month_Year,Year,Month,Region,Category,Product,Quantity,Unit_Price,Discount,Sales_Amount,Customer_ID
+1,27-02-2024,Feb-24,2024,Feb,South,Office Supplies,Pen,1,2353,0.05,2235.35,1094
+2,08-01-2024,Jan-24,2024,Jan,North,Electronics,Laptop,10,3556,0,35560,1027
+3,26-02-2024,Feb-24,2024,Feb,West,Electronics,Laptop,9,1728,0.15,13219.2,1075
+4,12-03-2024,Mar-24,2024,Mar,South,Furniture,Chair,3,3562,0.1,9617.4,1027
+5,01-04-2024,Apr-24,2024,Apr,East,Furniture,Chair,2,3212,0,6424,1077
+6,06-04-2024,Apr-24,2024,Apr,North,Furniture,Chair,8,4492,0,35936,1070
+7,29-06-2024,Jun-24,2024,Jun,North,Furniture,Bookcase,10,3062,0.05,29089,1005
+8,26-01-2024,Jan-24,2024,Jan,West,Office Supplies,Pen,5,753,0.05,3576.75,1035
+9,31-03-2024,Mar-24,2024,Mar,South,Furniture,Bookcase,6,1432,0.1,7732.8,1085
+10,11-02-2024,Feb-24,2024,Feb,West,Furniture,Bookcase,2,1501,0.05,2851.9,1048
+11,15-01-2024,Jan-24,2024,Jan,South,Furniture,Bookcase,9,1899,0.1,15381.9,1004
+12,25-05-2024,May-24,2024,May,East,Furniture,Table,5,642,0.05,3049.5,1027
+13,08-03-2024,Mar-24,2024,Mar,South,Office Supplies,Notebook,7,3858,0.05,25655.7,1031
+14,29-05-2024,May-24,2024,May,West,Office Supplies,Stapler,9,2252,0.15,17227.8,1046
+15,13-01-2024,Jan-24,2024,Jan,North,Electronics,Mouse,9,4142,0,37278,1019
+16,08-04-2024,Apr-24,2024,Apr,West,Office Supplies,Pen,7,4985,0,34895,1076
+17,23-06-2024,Jun-24,2024,Jun,North,Furniture,Bookcase,5,4632,0,23160,1087
+18,21-04-2024,Apr-24,2024,Apr,South,Office Supplies,Notebook,6,1013,0.1,5470.2,1058
+19,09-06-2024,Jun-24,2024,Jun,East,Electronics,Keyboard,9,1563,0,14067,1081
+20,11-02-2024,Feb-24,2024,Feb,North,Office Supplies,Stapler,4,1352,0.1,4867.2,1076
+21,19-03-2024,Mar-24,2024,Mar,South,Furniture,Table,1,1016,0.1,914.4,1007
+22,16-05-2024,May-24,2024,May,South,Electronics,Laptop,2,4081,0,8162,1016
+23,15-05-2024,May-24,2024,May,West,Office Supplies,Notebook,9,1452,0.1,11761.2,1027
+24,20-06-2024,Jun-24,2024,Jun,East,Office Supplies,Stapler,4,2653,0.15,9020.2,1056
+25,17-01-2024,Jan-24,2024,Jan,East,Office Supplies,Notebook,2,2130,0.05,4047,1002
+26,02-01-2024,Jan-24,2024,Jan,North,Office Supplies,Stapler,4,4920,0.05,18696,1090
+27,25-03-2024,Mar-24,2024,Mar,North,Office Supplies,Pen,4,652,0,2608,1065
+28,26-05-2024,May-24,2024,May,West,Electronics,Keyboard,8,1855,0.05,14098,1031
+29,17-06-2024,Jun-24,2024,Jun,West,Furniture,Table,4,872,0,3488,1045
+30,16-01-2024,Jan-24,2024,Jan,West,Furniture,Table,8,543,0,4344,1093
+31,17-05-2024,May-24,2024,May,West,Furniture,Chair,4,1669,0.05,6342.2,1017
+32,20-01-2024,Jan-24,2024,Jan,West,Furniture,Chair,5,3889,0.05,18472.75,1070
+33,01-03-2024,Mar-24,2024,Mar,South,Electronics,Laptop,9,220,0,1980,1052
+34,12-02-2024,Feb-24,2024,Feb,West,Furniture,Table,4,3385,0,13540,1000
+35,27-06-2024,Jun-24,2024,Jun,West,Furniture,Table,8,2436,0.15,16564.8,1019
+36,21-03-2024,Mar-24,2024,Mar,North,Electronics,Keyboard,4,579,0,2316,1006
+37,15-01-2024,Jan-24,2024,Jan,North,Office Supplies,Notebook,9,4450,0.05,38047.5,1023
+38,25-05-2024,May-24,2024,May,South,Electronics,Laptop,4,3407,0,13628,1074
+39,17-06-2024,Jun-24,2024,Jun,East,Office Supplies,Pen,10,771,0.15,6553.5,1033
+40,03-02-2024,Feb-24,2024,Feb,East,Electronics,Keyboard,4,2275,0.15,7735,1058
+41,19-01-2024,Jan-24,2024,Jan,South,Furniture,Chair,1,3854,0,3854,1064
+42,04-04-2024,Apr-24,2024,Apr,East,Furniture,Chair,6,663,0.05,3779.1,1020
+43,19-06-2024,Jun-24,2024,Jun,East,Furniture,Bookcase,5,4433,0,22165,1084
+44,21-05-2024,May-24,2024,May,South,Electronics,Mouse,5,1045,0,5225,1034
+45,24-06-2024,Jun-24,2024,Jun,East,Furniture,Bookcase,4,2908,0.05,11050.4,1064
+46,11-03-2024,Mar-24,2024,Mar,North,Furniture,Table,1,856,0.15,727.6,1000
+47,21-05-2024,May-24,2024,May,West,Furniture,Chair,5,1423,0.15,6047.75,1071
+48,04-04-2024,Apr-24,2024,Apr,South,Electronics,Laptop,2,1321,0,2642,1055
+49,01-04-2024,Apr-24,2024,Apr,South,Electronics,Laptop,5,3087,0,15435,1087
+50,07-06-2024,Jun-24,2024,Jun,South,Electronics,Laptop,6,4686,0.15,23898.6,1030
+51,26-03-2024,Mar-24,2024,Mar,West,Electronics,Mouse,7,303,0.05,2014.95,1085
+52,07-04-2024,Apr-24,2024,Apr,North,Office Supplies,Pen,5,1404,0,7020,1060
+53,28-02-2024,Feb-24,2024,Feb,South,Electronics,Mouse,8,2964,0.1,21340.8,1003
+54,18-01-2024,Jan-24,2024,Jan,East,Office Supplies,Pen,7,2789,0.1,17570.7,1044
+55,08-01-2024,Jan-24,2024,Jan,North,Office Supplies,Stapler,7,4492,0.1,28299.6,1033
+56,29-03-2024,Mar-24,2024,Mar,East,Electronics,Keyboard,1,988,0.15,839.8,1055
+57,06-03-2024,Mar-24,2024,Mar,North,Office Supplies,Stapler,2,3255,0.05,6184.5,1090
+58,03-04-2024,Apr-24,2024,Apr,West,Furniture,Chair,9,4510,0.05,38560.5,1008
+59,17-03-2024,Mar-24,2024,Mar,East,Office Supplies,Notebook,10,2671,0,26710,1085
+60,19-02-2024,Feb-24,2024,Feb,West,Furniture,Table,7,2522,0.05,16771.3,1085
+61,13-04-2024,Apr-24,2024,Apr,North,Furniture,Bookcase,3,4762,0.1,12857.4,1038
+62,29-04-2024,Apr-24,2024,Apr,West,Furniture,Chair,7,4851,0.1,30561.3,1056
+63,17-06-2024,Jun-24,2024,Jun,North,Office Supplies,Pen,9,3976,0.05,33994.8,1036
+64,01-03-2024,Mar-24,2024,Mar,East,Office Supplies,Stapler,10,2845,0,28450,1028
+65,01-05-2024,May-24,2024,May,North,Electronics,Mouse,1,478,0.05,454.1,1058
+66,06-05-2024,May-24,2024,May,West,Furniture,Bookcase,10,1692,0.15,14382,1031
+67,15-02-2024,Feb-24,2024,Feb,West,Electronics,Laptop,2,3582,0.05,6805.8,1006
+68,28-04-2024,Apr-24,2024,Apr,East,Office Supplies,Pen,2,3839,0.05,7294.1,1096
+69,10-02-2024,Feb-24,2024,Feb,West,Furniture,Bookcase,9,3595,0.15,27501.75,1057
+70,09-06-2024,Jun-24,2024,Jun,South,Furniture,Chair,5,4370,0.15,18572.5,1035
+71,26-03-2024,Mar-24,2024,Mar,East,Furniture,Chair,5,2020,0.1,9090,1069
+72,26-06-2024,Jun-24,2024,Jun,South,Electronics,Mouse,3,1994,0.15,5084.7,1090
+73,18-05-2024,May-24,2024,May,West,Electronics,Laptop,7,3439,0.1,21665.7,1053
+74,27-05-2024,May-24,2024,May,West,Electronics,Mouse,7,3290,0,23030,1061
+75,17-05-2024,May-24,2024,May,South,Electronics,Keyboard,5,3294,0.15,13999.5,1062
+76,09-04-2024,Apr-24,2024,Apr,East,Electronics,Keyboard,7,4078,0,28546,1085
+77,08-06-2024,Jun-24,2024,Jun,North,Office Supplies,Notebook,3,3928,0.05,11194.8,1050
+78,04-02-2024,Feb-24,2024,Feb,West,Office Supplies,Stapler,1,787,0.15,668.95,1023
+79,26-04-2024,Apr-24,2024,Apr,East,Electronics,Keyboard,7,2781,0.05,18493.65,1043
+80,30-04-2024,Apr-24,2024,Apr,North,Furniture,Table,7,2166,0,15162,1095
+81,15-06-2024,Jun-24,2024,Jun,North,Office Supplies,Pen,6,1936,0,11616,1096
+82,02-03-2024,Mar-24,2024,Mar,South,Electronics,Mouse,4,266,0.05,1010.8,1060
+83,28-06-2024,Jun-24,2024,Jun,East,Office Supplies,Pen,10,1885,0.15,16022.5,1098
+84,20-03-2024,Mar-24,2024,Mar,North,Furniture,Chair,10,1038,0.05,9861,1074
+85,20-02-2024,Feb-24,2024,Feb,North,Electronics,Keyboard,10,3174,0.15,26979,1075
+86,24-06-2024,Jun-24,2024,Jun,North,Office Supplies,Stapler,4,934,0.1,3362.4,1072
+87,18-01-2024,Jan-24,2024,Jan,East,Electronics,Keyboard,9,3609,0.1,29232.9,1001
+88,11-06-2024,Jun-24,2024,Jun,West,Furniture,Table,2,3651,0.1,6571.8,1090
+89,06-06-2024,Jun-24,2024,Jun,West,Electronics,Monitor,3,4374,0.1,11809.8,1059
+90,03-03-2024,Mar-24,2024,Mar,North,Furniture,Bookcase,10,2298,0.1,20682,1035
+91,27-03-2024,Mar-24,2024,Mar,North,Furniture,Chair,8,4768,0.15,32422.4,1063
+92,07-03-2024,Mar-24,2024,Mar,East,Furniture,Chair,8,1837,0.1,13226.4,1035
+93,12-05-2024,May-24,2024,May,South,Office Supplies,Stapler,5,4653,0,23265,1010
+94,25-06-2024,Jun-24,2024,Jun,West,Electronics,Monitor,8,4648,0.05,35324.8,1082
+95,16-03-2024,Mar-24,2024,Mar,South,Office Supplies,Notebook,8,241,0,1928,1051
+96,01-05-2024,May-24,2024,May,East,Office Supplies,Pen,5,4864,0.1,21888,1054
+97,10-03-2024,Mar-24,2024,Mar,East,Office Supplies,Stapler,6,2982,0.15,15208.2,1032
+98,17-05-2024,May-24,2024,May,South,Electronics,Laptop,4,2684,0,10736,1024
+99,26-01-2024,Jan-24,2024,Jan,South,Electronics,Monitor,5,4929,0.1,22180.5,1037
+100,16-05-2024,May-24,2024,May,South,Electronics,Keyboard,3,2576,0,7728,1035
+101,12-06-2024,Jun-24,2024,Jun,West,Electronics,Laptop,9,2493,0.05,21315.15,1013
+102,28-03-2024,Mar-24,2024,Mar,South,Electronics,Keyboard,8,4021,0.15,27342.8,1006
+103,05-05-2024,May-24,2024,May,North,Furniture,Table,2,635,0.15,1079.5,1073
+104,24-05-2024,May-24,2024,May,East,Office Supplies,Stapler,1,1342,0.05,1274.9,1010
+105,13-05-2024,May-24,2024,May,West,Electronics,Laptop,9,3509,0.05,30001.95,1057
+106,25-05-2024,May-24,2024,May,North,Furniture,Table,10,3612,0.1,32508,1078
+107,18-06-2024,Jun-24,2024,Jun,North,Office Supplies,Pen,4,1828,0.1,6580.8,1020
+108,01-01-2024,Jan-24,2024,Jan,West,Electronics,Mouse,9,714,0.05,6104.7,1057
+109,29-02-2024,Feb-24,2024,Feb,East,Office Supplies,Stapler,8,2485,0,19880,1090
+110,08-03-2024,Mar-24,2024,Mar,South,Furniture,Bookcase,8,683,0.05,5190.8,1054
+111,19-01-2024,Jan-24,2024,Jan,North,Electronics,Mouse,3,2276,0.05,6486.6,1021
+112,01-02-2024,Feb-24,2024,Feb,West,Furniture,Bookcase,10,2464,0.15,20944,1088
+113,22-04-2024,Apr-24,2024,Apr,North,Furniture,Bookcase,7,2330,0.15,13863.5,1076
+114,24-01-2024,Jan-24,2024,Jan,South,Electronics,Monitor,6,2151,0,12906,1086
+115,14-02-2024,Feb-24,2024,Feb,West,Office Supplies,Stapler,1,2307,0,2307,1066
+116,11-06-2024,Jun-24,2024,Jun,West,Office Supplies,Notebook,5,1586,0.15,6740.5,1011
+117,20-06-2024,Jun-24,2024,Jun,North,Furniture,Table,7,2830,0.1,17829,1020
+118,20-05-2024,May-24,2024,May,North,Furniture,Table,8,2461,0.15,16734.8,1058
+119,13-04-2024,Apr-24,2024,Apr,North,Electronics,Keyboard,5,2748,0,13740,1084
+120,12-05-2024,May-24,2024,May,East,Office Supplies,Notebook,7,544,0.05,3617.6,1079
+121,09-03-2024,Mar-24,2024,Mar,South,Furniture,Bookcase,8,522,0.05,3967.2,1036
+122,10-06-2024,Jun-24,2024,Jun,South,Furniture,Bookcase,8,1094,0,8752,1090
+123,24-01-2024,Jan-24,2024,Jan,South,Electronics,Keyboard,9,212,0.15,1621.8,1014
+124,10-05-2024,May-24,2024,May,East,Furniture,Chair,3,4182,0.1,11291.4,1053
+125,08-04-2024,Apr-24,2024,Apr,South,Furniture,Table,4,3841,0.05,14595.8,1076
+126,16-04-2024,Apr-24,2024,Apr,East,Office Supplies,Stapler,3,671,0.1,1811.7,1100
+127,30-05-2024,May-24,2024,May,West,Office Supplies,Notebook,1,2417,0.1,2175.3,1019
+128,21-05-2024,May-24,2024,May,West,Furniture,Bookcase,8,2927,0.1,21074.4,1058
+129,29-02-2024,Feb-24,2024,Feb,West,Furniture,Chair,4,4784,0.15,16265.6,1005
+130,18-06-2024,Jun-24,2024,Jun,South,Furniture,Bookcase,8,3223,0.15,21916.4,1063
+131,26-01-2024,Jan-24,2024,Jan,West,Electronics,Mouse,9,4934,0.1,39965.4,1012
+132,16-06-2024,Jun-24,2024,Jun,South,Office Supplies,Notebook,1,1280,0.15,1088,1009
+133,25-03-2024,Mar-24,2024,Mar,West,Furniture,Table,6,3356,0,20136,1040
+134,07-06-2024,Jun-24,2024,Jun,North,Office Supplies,Stapler,8,4532,0,36256,1030
+135,21-04-2024,Apr-24,2024,Apr,North,Office Supplies,Stapler,5,1963,0,9815,1097
+136,26-06-2024,Jun-24,2024,Jun,East,Office Supplies,Stapler,2,3734,0.05,7094.6,1003
+137,05-04-2024,Apr-24,2024,Apr,West,Electronics,Keyboard,1,2503,0.1,2252.7,1018
+138,14-02-2024,Feb-24,2024,Feb,North,Electronics,Monitor,10,1575,0.05,14962.5,1078
+139,29-02-2024,Feb-24,2024,Feb,West,Furniture,Bookcase,4,4176,0.05,15868.8,1081
+140,14-03-2024,Mar-24,2024,Mar,South,Furniture,Table,5,176,0.15,748,1009
+141,25-06-2024,Jun-24,2024,Jun,East,Furniture,Table,10,2550,0.15,21675,1058
+142,01-03-2024,Mar-24,2024,Mar,West,Furniture,Chair,7,4058,0,28406,1073
+143,17-06-2024,Jun-24,2024,Jun,West,Furniture,Bookcase,5,2518,0,12590,1035
+144,28-02-2024,Feb-24,2024,Feb,East,Electronics,Laptop,10,4169,0.1,37521,1028
+145,09-06-2024,Jun-24,2024,Jun,North,Office Supplies,Pen,10,2153,0.05,20453.5,1080
+146,28-05-2024,May-24,2024,May,East,Office Supplies,Pen,5,3711,0,18555,1093
+147,14-02-2024,Feb-24,2024,Feb,South,Electronics,Laptop,5,2776,0.15,11798,1016
+148,12-02-2024,Feb-24,2024,Feb,East,Office Supplies,Notebook,9,4210,0.1,34101,1061
+149,20-01-2024,Jan-24,2024,Jan,South,Furniture,Bookcase,6,1043,0.15,5319.3,1096
+150,11-04-2024,Apr-24,2024,Apr,North,Electronics,Monitor,9,3096,0,27864,1033
+151,29-05-2024,May-24,2024,May,West,Office Supplies,Pen,8,3119,0.1,22456.8,1081
+152,07-06-2024,Jun-24,2024,Jun,East,Furniture,Chair,4,3962,0,15848,1078
+153,30-01-2024,Jan-24,2024,Jan,South,Electronics,Laptop,8,2575,0.15,17510,1005
+154,01-03-2024,Mar-24,2024,Mar,South,Electronics,Keyboard,8,1051,0,8408,1049
+155,16-04-2024,Apr-24,2024,Apr,North,Furniture,Table,9,3533,0.05,30207.15,1062
+156,25-02-2024,Feb-24,2024,Feb,West,Office Supplies,Notebook,5,368,0.1,1656,1056
+157,16-01-2024,Jan-24,2024,Jan,West,Electronics,Keyboard,2,3109,0.1,5596.2,1035
+158,13-06-2024,Jun-24,2024,Jun,North,Electronics,Laptop,8,850,0.05,6460,1006
+159,18-01-2024,Jan-24,2024,Jan,South,Furniture,Chair,3,4725,0.05,13466.25,1075
+160,11-03-2024,Mar-24,2024,Mar,South,Electronics,Mouse,6,1308,0,7848,1016
+161,03-02-2024,Feb-24,2024,Feb,North,Office Supplies,Notebook,3,1000,0,3000,1045
+162,14-01-2024,Jan-24,2024,Jan,South,Electronics,Keyboard,1,1527,0.1,1374.3,1094
+163,24-04-2024,Apr-24,2024,Apr,East,Furniture,Bookcase,2,620,0.15,1054,1065
+164,06-06-2024,Jun-24,2024,Jun,North,Office Supplies,Pen,8,4227,0.05,32125.2,1093
+165,16-01-2024,Jan-24,2024,Jan,West,Office Supplies,Stapler,5,3852,0,19260,1051
+166,19-01-2024,Jan-24,2024,Jan,North,Furniture,Bookcase,2,4116,0.15,6997.2,1041
+167,08-06-2024,Jun-24,2024,Jun,East,Office Supplies,Pen,2,1133,0.1,2039.4,1048
+168,26-01-2024,Jan-24,2024,Jan,North,Office Supplies,Stapler,5,3816,0.15,16218,1083
+169,28-02-2024,Feb-24,2024,Feb,West,Office Supplies,Stapler,4,3623,0.15,12318.2,1043
+170,19-04-2024,Apr-24,2024,Apr,East,Furniture,Table,7,878,0.1,5531.4,1085
+171,24-01-2024,Jan-24,2024,Jan,North,Furniture,Table,3,3985,0,11955,1011
+172,30-05-2024,May-24,2024,May,East,Furniture,Chair,6,1165,0,6990,1085
+173,14-03-2024,Mar-24,2024,Mar,East,Electronics,Monitor,6,3564,0,21384,1045
+174,28-01-2024,Jan-24,2024,Jan,East,Electronics,Mouse,3,4050,0.05,11542.5,1071
+175,19-04-2024,Apr-24,2024,Apr,North,Furniture,Chair,5,4803,0.05,22814.25,1077
+176,10-03-2024,Mar-24,2024,Mar,East,Office Supplies,Stapler,5,337,0.05,1600.75,1043
+177,18-01-2024,Jan-24,2024,Jan,South,Furniture,Chair,3,1273,0.15,3246.15,1094
+178,06-04-2024,Apr-24,2024,Apr,West,Office Supplies,Pen,2,4445,0.05,8445.5,1058
+179,25-05-2024,May-24,2024,May,North,Furniture,Chair,6,2652,0.1,14320.8,1006
+180,10-03-2024,Mar-24,2024,Mar,West,Electronics,Mouse,10,507,0,5070,1084
+181,10-03-2024,Mar-24,2024,Mar,South,Furniture,Table,10,3721,0.15,31628.5,1096
+182,13-03-2024,Mar-24,2024,Mar,West,Office Supplies,Pen,6,3621,0,21726,1067
+183,02-06-2024,Jun-24,2024,Jun,North,Office Supplies,Notebook,1,1906,0.15,1620.1,1000
+184,15-03-2024,Mar-24,2024,Mar,East,Electronics,Keyboard,4,1224,0.1,4406.4,1015
+185,07-04-2024,Apr-24,2024,Apr,South,Electronics,Monitor,7,1539,0.05,10234.35,1064
+186,11-01-2024,Jan-24,2024,Jan,West,Office Supplies,Stapler,6,690,0.15,3519,1002
+187,26-05-2024,May-24,2024,May,West,Furniture,Chair,6,4816,0.15,24561.6,1090
+188,06-01-2024,Jan-24,2024,Jan,East,Office Supplies,Notebook,5,1043,0.15,4432.75,1021
+189,28-01-2024,Jan-24,2024,Jan,South,Office Supplies,Notebook,6,821,0.15,4187.1,1055
+190,20-03-2024,Mar-24,2024,Mar,East,Office Supplies,Notebook,9,744,0.15,5691.6,1028
+191,15-05-2024,May-24,2024,May,South,Furniture,Chair,2,4281,0,8562,1099
+192,07-02-2024,Feb-24,2024,Feb,East,Furniture,Table,3,2035,0,6105,1025
+193,28-04-2024,Apr-24,2024,Apr,West,Electronics,Mouse,2,1551,0.15,2636.7,1087
+194,08-02-2024,Feb-24,2024,Feb,West,Office Supplies,Stapler,10,2747,0.1,24723,1008
+195,31-03-2024,Mar-24,2024,Mar,North,Furniture,Table,5,2350,0,11750,1039
+196,14-03-2024,Mar-24,2024,Mar,North,Furniture,Table,1,566,0.1,509.4,1082
+197,25-04-2024,Apr-24,2024,Apr,South,Electronics,Monitor,8,4854,0,38832,1041
+198,25-04-2024,Apr-24,2024,Apr,North,Office Supplies,Notebook,9,1335,0,12015,1043
+199,04-03-2024,Mar-24,2024,Mar,West,Office Supplies,Pen,9,1513,0,13617,1056
+200,05-04-2024,Apr-24,2024,Apr,East,Office Supplies,Stapler,10,1400,0.1,12600,1049
+201,17-01-2024,Jan-24,2024,Jan,East,Furniture,Table,10,528,0.1,4752,1012
+202,17-06-2024,Jun-24,2024,Jun,South,Office Supplies,Stapler,7,2427,0.1,15290.1,1042
+203,03-02-2024,Feb-24,2024,Feb,North,Electronics,Mouse,6,2641,0.15,13469.1,1039
+204,14-06-2024,Jun-24,2024,Jun,West,Office Supplies,Notebook,6,1146,0,6876,1065
+205,24-02-2024,Feb-24,2024,Feb,East,Furniture,Chair,6,2630,0.05,14991,1098
+206,20-01-2024,Jan-24,2024,Jan,East,Furniture,Chair,4,1226,0.05,4658.8,1100
+207,09-02-2024,Feb-24,2024,Feb,South,Electronics,Laptop,6,1173,0.15,5982.3,1023
+208,15-04-2024,Apr-24,2024,Apr,East,Office Supplies,Stapler,3,3685,0,11055,1086
+209,29-02-2024,Feb-24,2024,Feb,South,Office Supplies,Pen,8,2434,0.15,16551.2,1039
+210,28-04-2024,Apr-24,2024,Apr,East,Furniture,Chair,6,4772,0.15,24337.2,1099
+211,21-02-2024,Feb-24,2024,Feb,South,Furniture,Bookcase,9,3529,0.05,30172.95,1032
+212,12-05-2024,May-24,2024,May,North,Electronics,Monitor,6,4642,0,27852,1036
+213,21-04-2024,Apr-24,2024,Apr,North,Electronics,Mouse,5,3780,0.05,17955,1028
+214,11-04-2024,Apr-24,2024,Apr,East,Furniture,Table,1,3498,0,3498,1030
+215,22-03-2024,Mar-24,2024,Mar,North,Furniture,Chair,6,1939,0,11634,1091
+216,14-03-2024,Mar-24,2024,Mar,West,Office Supplies,Notebook,3,1227,0,3681,1089
+217,05-01-2024,Jan-24,2024,Jan,East,Electronics,Monitor,8,143,0,1144,1027
+218,18-03-2024,Mar-24,2024,Mar,North,Electronics,Monitor,2,2460,0.05,4674,1006
+219,29-01-2024,Jan-24,2024,Jan,West,Electronics,Monitor,10,3844,0,38440,1076
+220,06-02-2024,Feb-24,2024,Feb,East,Office Supplies,Pen,9,4810,0.05,41125.5,1054
+221,17-02-2024,Feb-24,2024,Feb,North,Electronics,Keyboard,4,4774,0.15,16231.6,1067
+222,09-04-2024,Apr-24,2024,Apr,West,Furniture,Chair,9,4557,0,41013,1005
+223,01-04-2024,Apr-24,2024,Apr,North,Office Supplies,Notebook,6,2177,0,13062,1044
+224,12-01-2024,Jan-24,2024,Jan,East,Electronics,Laptop,10,2823,0.05,26818.5,1069
+225,10-06-2024,Jun-24,2024,Jun,South,Furniture,Bookcase,3,3906,0.15,9960.3,1017
+226,12-01-2024,Jan-24,2024,Jan,South,Electronics,Monitor,1,2503,0.05,2377.85,1005
+227,05-03-2024,Mar-24,2024,Mar,North,Furniture,Table,9,3362,0.15,25719.3,1096
+228,16-06-2024,Jun-24,2024,Jun,East,Office Supplies,Pen,5,3024,0,15120,1034
+229,08-04-2024,Apr-24,2024,Apr,East,Electronics,Keyboard,7,3376,0.15,20087.2,1023
+230,22-01-2024,Jan-24,2024,Jan,West,Furniture,Bookcase,8,3109,0.1,22384.8,1010
+231,23-03-2024,Mar-24,2024,Mar,North,Furniture,Bookcase,3,4568,0.1,12333.6,1010
+232,03-06-2024,Jun-24,2024,Jun,West,Furniture,Bookcase,5,2610,0.15,11092.5,1021
+233,31-03-2024,Mar-24,2024,Mar,West,Office Supplies,Notebook,6,3762,0,22572,1035
+234,11-05-2024,May-24,2024,May,South,Office Supplies,Pen,2,3427,0.1,6168.6,1003
+235,01-03-2024,Mar-24,2024,Mar,East,Electronics,Monitor,1,1134,0,1134,1046
+236,04-04-2024,Apr-24,2024,Apr,East,Furniture,Bookcase,1,1356,0.15,1152.6,1056
+237,21-03-2024,Mar-24,2024,Mar,East,Electronics,Mouse,9,3106,0.15,23760.9,1031
+238,23-05-2024,May-24,2024,May,North,Electronics,Laptop,3,4188,0.15,10679.4,1033
+239,26-06-2024,Jun-24,2024,Jun,West,Furniture,Bookcase,8,1857,0.1,13370.4,1025
+240,23-04-2024,Apr-24,2024,Apr,North,Electronics,Mouse,2,3803,0.05,7225.7,1087
+241,17-03-2024,Mar-24,2024,Mar,South,Furniture,Bookcase,6,631,0.1,3407.4,1091
+242,01-02-2024,Feb-24,2024,Feb,South,Office Supplies,Stapler,3,3061,0.05,8723.85,1017
+243,29-04-2024,Apr-24,2024,Apr,South,Electronics,Monitor,1,3056,0.1,2750.4,1078
+244,14-05-2024,May-24,2024,May,West,Electronics,Laptop,5,3361,0.15,14284.25,1098
+245,13-06-2024,Jun-24,2024,Jun,North,Furniture,Bookcase,2,1126,0.1,2026.8,1057
+246,21-05-2024,May-24,2024,May,South,Furniture,Bookcase,9,2922,0.05,24983.1,1098
+247,12-05-2024,May-24,2024,May,South,Electronics,Monitor,9,553,0,4977,1038
+248,12-05-2024,May-24,2024,May,East,Electronics,Mouse,6,1947,0.1,10513.8,1010
+249,09-06-2024,Jun-24,2024,Jun,East,Furniture,Chair,9,2348,0.05,20075.4,1078
+250,13-02-2024,Feb-24,2024,Feb,East,Office Supplies,Pen,9,1481,0.05,12662.55,1072
+251,15-06-2024,Jun-24,2024,Jun,South,Electronics,Laptop,2,472,0.1,849.6,1098
+252,09-06-2024,Jun-24,2024,Jun,East,Office Supplies,Notebook,10,348,0.15,2958,1082
+253,26-04-2024,Apr-24,2024,Apr,North,Furniture,Table,4,3426,0.1,12333.6,1088
+254,28-04-2024,Apr-24,2024,Apr,South,Electronics,Mouse,8,3504,0.15,23827.2,1043
+255,12-04-2024,Apr-24,2024,Apr,South,Office Supplies,Pen,6,2715,0.1,14661,1097
+256,02-03-2024,Mar-24,2024,Mar,West,Furniture,Bookcase,9,969,0.1,7848.9,1015
+257,13-01-2024,Jan-24,2024,Jan,East,Furniture,Table,4,1254,0,5016,1049
+258,27-05-2024,May-24,2024,May,East,Office Supplies,Notebook,4,1408,0.1,5068.8,1024
+259,19-03-2024,Mar-24,2024,Mar,West,Electronics,Monitor,9,3924,0.15,30018.6,1002
+260,25-02-2024,Feb-24,2024,Feb,East,Electronics,Monitor,9,3845,0.05,32874.75,1006
+261,14-03-2024,Mar-24,2024,Mar,North,Electronics,Keyboard,8,4994,0.15,33959.2,1013
+262,03-04-2024,Apr-24,2024,Apr,North,Furniture,Chair,5,3096,0.15,13158,1051
+263,19-01-2024,Jan-24,2024,Jan,West,Electronics,Mouse,6,4632,0.1,25012.8,1064
+264,25-01-2024,Jan-24,2024,Jan,West,Furniture,Bookcase,5,1073,0.05,5096.75,1047
+265,03-06-2024,Jun-24,2024,Jun,West,Furniture,Bookcase,6,1281,0.05,7301.7,1064
+266,01-05-2024,May-24,2024,May,West,Electronics,Laptop,1,1222,0.1,1099.8,1019
+267,11-02-2024,Feb-24,2024,Feb,West,Office Supplies,Stapler,3,2786,0.1,7522.2,1078
+268,24-05-2024,May-24,2024,May,East,Office Supplies,Notebook,10,2855,0.15,24267.5,1060
+269,29-05-2024,May-24,2024,May,East,Electronics,Keyboard,6,997,0.15,5084.7,1092
+270,08-03-2024,Mar-24,2024,Mar,South,Office Supplies,Stapler,1,4989,0.15,4240.65,1092
+271,07-02-2024,Feb-24,2024,Feb,South,Electronics,Monitor,3,4394,0.15,11204.7,1004
+272,22-04-2024,Apr-24,2024,Apr,East,Office Supplies,Stapler,2,1662,0,3324,1053
+273,16-01-2024,Jan-24,2024,Jan,South,Electronics,Monitor,4,3461,0.15,11767.4,1066
+274,21-03-2024,Mar-24,2024,Mar,South,Electronics,Keyboard,8,4404,0.15,29947.2,1058
+275,05-06-2024,Jun-24,2024,Jun,West,Office Supplies,Notebook,9,3002,0.1,24316.2,1024
+276,17-03-2024,Mar-24,2024,Mar,East,Electronics,Keyboard,9,2545,0.05,21759.75,1090
+277,23-05-2024,May-24,2024,May,East,Electronics,Monitor,6,4030,0.1,21762,1036
+278,15-03-2024,Mar-24,2024,Mar,North,Electronics,Monitor,7,2927,0.05,19464.55,1036
+279,02-05-2024,May-24,2024,May,South,Office Supplies,Pen,6,3723,0.1,20104.2,1025
+280,28-01-2024,Jan-24,2024,Jan,South,Office Supplies,Notebook,9,2325,0.05,19878.75,1031
+281,15-04-2024,Apr-24,2024,Apr,East,Electronics,Mouse,4,530,0,2120,1091
+282,14-04-2024,Apr-24,2024,Apr,West,Furniture,Chair,3,142,0.05,404.7,1061
+283,14-06-2024,Jun-24,2024,Jun,North,Office Supplies,Pen,5,2731,0.1,12289.5,1098
+284,16-04-2024,Apr-24,2024,Apr,South,Electronics,Mouse,9,405,0.05,3462.75,1004
+285,03-01-2024,Jan-24,2024,Jan,East,Furniture,Table,3,2471,0,7413,1072
+286,13-06-2024,Jun-24,2024,Jun,West,Office Supplies,Pen,6,2431,0.15,12398.1,1017
+287,25-03-2024,Mar-24,2024,Mar,South,Office Supplies,Notebook,5,1679,0,8395,1093
+288,27-03-2024,Mar-24,2024,Mar,East,Furniture,Bookcase,5,1625,0,8125,1072
+289,11-05-2024,May-24,2024,May,East,Office Supplies,Pen,3,3421,0.15,8723.55,1011
+290,02-05-2024,May-24,2024,May,East,Furniture,Bookcase,2,1613,0.05,3064.7,1031
+291,09-03-2024,Mar-24,2024,Mar,East,Electronics,Keyboard,7,2029,0.15,12072.55,1038
+292,16-06-2024,Jun-24,2024,Jun,East,Office Supplies,Stapler,10,193,0.1,1737,1088
+293,10-02-2024,Feb-24,2024,Feb,West,Electronics,Laptop,2,3912,0.1,7041.6,1087
+294,04-04-2024,Apr-24,2024,Apr,South,Office Supplies,Stapler,5,1061,0.1,4774.5,1028
+295,16-04-2024,Apr-24,2024,Apr,West,Electronics,Monitor,3,3827,0.1,10332.9,1096
+296,14-05-2024,May-24,2024,May,West,Office Supplies,Stapler,4,2127,0,8508,1067
+297,16-01-2024,Jan-24,2024,Jan,South,Office Supplies,Notebook,2,4721,0,9442,1073
+298,30-01-2024,Jan-24,2024,Jan,South,Office Supplies,Pen,3,2787,0.15,7106.85,1091
+299,15-01-2024,Jan-24,2024,Jan,West,Office Supplies,Notebook,2,4280,0.15,7276,1016
+300,23-05-2024,May-24,2024,May,West,Office Supplies,Notebook,8,4719,0,37752,1086
