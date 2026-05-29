@@ -81,7 +81,3 @@ SELECT
 FROM sales_data;
 
 
--- HOW YOU CAN EXPLAIN THIS IN EXAM / INTERVIEW The dataset had date values stored as text, 
--- so I first imported them as VARCHAR, then converted them using STR_TO_DATE() to
--- avoid datatype errors. After cleaning, I performed sales, customer, region, and KPI analysis
--- using SQL. --
